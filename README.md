@@ -16,3 +16,5 @@ navbar
 찾아오시는 길 ( 카카오 API )
 
 footer
+
+드래그 방지(css)
