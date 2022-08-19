@@ -7,6 +7,7 @@ import { MainComponent } from './main/main.component';
 import { LocationComponent } from './location/location.component';
 import { AboutComponent } from './about/about.component';
 import { GalleryComponent } from './gallery/gallery.component';
+import { HomeComponent } from './home/home.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { GalleryComponent } from './gallery/gallery.component';
     MainComponent,
     LocationComponent,
     AboutComponent,
-    GalleryComponent
+    GalleryComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
