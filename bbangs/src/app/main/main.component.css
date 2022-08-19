@@ -31,6 +31,12 @@
     padding-bottom: 30px;
     text-align: center;
 }
+
+.nav-logo{
+    height: 40px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
   
   
   @media (min-width: 5000px) {
