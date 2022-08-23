@@ -8,7 +8,7 @@ import { NgbCarousel, NgbSlideEvent, NgbSlideEventSource } from '@ng-bootstrap/n
 })
 export class GalleryComponent implements OnInit {
   
-  images = [62, 83, 466, 965, 982, 1043, 738].map((n) => `https://picsum.photos/id/${n}/1800/500`);
+  images = [1001, 103, 466, 1029, 982, 1033, 738].map((n) => `https://picsum.photos/id/${n}/1800/500`);
 
   constructor() { }
 
